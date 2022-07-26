@@ -1155,7 +1155,8 @@ footer, header, .navbar {
         padding-left: 0;
         float: none;
         margin: auto;
-        display: -webkit-box;
+        display: block;
+        text-align: center;
     }
     #btns_cnt_dept {
         width: 70%;
